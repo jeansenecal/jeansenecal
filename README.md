@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Senecal</h1>
-<h3 align="center">Software Developer at Canadian Bank Note and a learning junkie</h3>
+<h3 align="center">Software Developer at Canadian Bank Note and a learning fiend</h3>
 
 - 🔭 I’m currently working on [Sketchy Shredders E-Commerce](https://github.com/jeansenecal/sketchy-shredders-shop)
 
