@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean Senecal</h1>
 <h3 align="center">Software Developer at Canadian Bank Note and a learning fiend</h3>
 
-- 🔭 I’m currently working on [Sketchy Shredders E-Commerce](https://github.com/jeansenecal/sketchy-shredders-shop)
-
-- 🌱 I’m currently learning **the MERN stack**
-
-- 👨‍💻 All of my information is available at [https://jeansenecal.netlify.app/](https://jeansenecal.netlify.app/)
-
 - 📫 How to reach me **jeansenecal02@gmail.com**
-
-- 📄 Know about my experiences [https://jeansenecal.netlify.app/Jean_Senecal_Resume_2022.pdf](https://jeansenecal.netlify.app/Jean_Senecal_Resume_2022.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
